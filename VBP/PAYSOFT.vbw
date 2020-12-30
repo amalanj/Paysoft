@@ -1,0 +1,7 @@
+frmBranchMaster = 110, 145, 776, 575, C, 22, 29, 688, 485, C
+gf_database_connection = 44, 58, 710, 488, C
+gf_global_variables = 66, 87, 732, 517, C
+mdiMain = 154, 203, 819, 633, C, 88, 116, 754, 546, C
+gf_global_functions = 44, 58, 710, 488, C
+frmGradeMaster = 110, 145, 775, 575, C, 66, 87, 731, 517, C
+frmFestivalMaster = 0, 0, 665, 430, C, 22, 29, 687, 459, C
